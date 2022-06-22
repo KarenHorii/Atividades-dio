@@ -6,5 +6,5 @@
   
 <h3 align="center">
     Esse repositório é para a emissão de atividades realizadas na DIO
-  :construction::construction:
+  :v::construction:
 </h3>
